@@ -1,2 +1,1 @@
-# fe-code
-日常学习笔记 daily study note
+# 日常学习笔记
